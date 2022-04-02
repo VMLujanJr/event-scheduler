@@ -6,9 +6,9 @@ Thank you for taking the time to review my event scheduler!
 
 ## Description
 
-[event-scheduler](https://github.com/VMLujanJr/event-scheduler) is an interactive quiz that covers basic JavaScript fundamentals in a simple question & answer format with next and previous buttons.
+[event-scheduler](https://github.com/VMLujanJr/event-scheduler) is a scheduler to keep track of important tasks.
 
-You may also visit the interactive [website](https://github.com/VMLujanJr/event-scheduler) to try out the quiz yourself.
+You may also visit the interactive [website](https://vmlujanjr.github.io/event-scheduler/) to try out the quiz yourself.
 
 ## Objectives
 ```
@@ -23,10 +23,10 @@ GIVEN I am using a daily planner to create a schedule
 - [x] WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
 
-- [ ] WHEN I scroll down
+- [x] WHEN I scroll down
 THEN I am presented with time blocks for standard business hours
 
-- [ ] WHEN I view the time blocks for that day
+- [x] WHEN I view the time blocks for that day
 THEN each time block is color-coded to indicate whether it is in the past, present, or future
 
 - [ ] WHEN I click into a time block
