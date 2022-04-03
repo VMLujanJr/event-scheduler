@@ -48,15 +48,15 @@ THEN the saved events persist
 **Deployment: 32%**
 
 - [x] Application deployed at live URL
-- [ ] Application loads with no errors
-- [ ] Application GitHub URL submitted
+- [x] Application loads with no errors
+- [x] Application GitHub URL submitted
 - [x] GitHub repository contains application code
 
 **Application Quality: 15%**
 
-- [ ] Application user experience is intuitive and easy to navigate
-- [ ] Application user interface style is clean and polished
-- [ ] Application resembles the mock-up functionality
+- [x] Application user experience is intuitive and easy to navigate
+- [x] Application user interface style is clean and polished
+- [x] Application resembles the mock-up functionality
 
 **Repository Quality: 13%**
 
