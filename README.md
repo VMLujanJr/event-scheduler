@@ -111,6 +111,8 @@ A list of languages used for this project:
 
 You may visit my [GitHub](https://github.com/VMLujanJr) profile to view my previous and most recent projects.
 
+I'd like to credit my collaborator [Adriana](https://github.com/adrianapventa)
+
 ## License
 MIT License
 
