@@ -33,4 +33,15 @@ var timeTracker = function () {
     })
 };
 
+// save button event listener
+$(".saveBtn").on("click", function() {
+
+    // get value of description, and the item ID to create a key value pair
+    var descriptionVal = $(this).siblings(".description").val();
+    var timeKey = $(this).siblings(".description").attr("id");
+
+    // save to localStorage; timeKey (Key), descriptionVal (Value); key value pairs
+    localStorage.setItem(timeKey, descriptionVal);
+})
+
 timeTracker();
