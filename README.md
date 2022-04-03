@@ -43,14 +43,14 @@ THEN the saved events persist
 **Technical: 40%**
 
 - [ ] Satisfies all of the preceding acceptance criteria
-- [ ] Uses the Moment.js library to work with date and time
+- [x] Uses the Moment.js library to work with date and time
 
 **Deployment: 32%**
 
-- [ ] Application deployed at live URL
+- [x] Application deployed at live URL
 - [ ] Application loads with no errors
 - [ ] Application GitHub URL submitted
-- [ ] GitHub repository contains application code
+- [x] GitHub repository contains application code
 
 **Application Quality: 15%**
 
@@ -60,11 +60,11 @@ THEN the saved events persist
 
 **Repository Quality: 13%**
 
-- [ ] Repository has a unique name
-- [ ] Repository follows best practices for file structure and naming conventions
-- [ ] Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-- [ ] Repository contains multiple descriptive commit messages
-- [ ] Repository contains quality README.md with description, screenshots, link to deployed application
+- [x] Repository has a unique name
+- [x] Repository follows best practices for file structure and naming conventions
+- [x] Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+- [x] Repository contains multiple descriptive commit messages
+- [x] Repository contains quality README.md with description, screenshots, link to deployed application
 
 ### **MOCK UP**
 
